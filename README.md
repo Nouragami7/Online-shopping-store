@@ -1,0 +1,1 @@
+This repository hosts a SaaS application for an online store, featuring Docker for containerization, Flask for backend development, and HTML, CSS, and JavaScript for frontend design and interactivity. It enables scalable deployment and robust functionality, catering to the needs of an e-commerce platform.
